@@ -1,0 +1,25 @@
+ 
+.hero-main{
+    background-image: url('../../components/assets/img/2.png') ;
+    background-repeat: repeat;
+    background-position: cover;
+    border-radius: 25px;
+    padding: 50px 50px 50px 50px;
+}
+.hero-text{
+    max-width: 500px;
+}
+.hero-title{
+    padding: 40px 40px 40px 40px;
+    font-size: 60px;
+    text-transform: uppercase;
+    margin-bottom: 25px;
+    font-weight: 900;
+}
+.hero-title em {
+   font-style: normal;
+ }
+.main-button{
+   font-style: normal;
+ }
+ 

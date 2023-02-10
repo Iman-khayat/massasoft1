@@ -1,0 +1,11 @@
+body{
+     background-color: #84A59D;
+ }
+ 
+.navbar{
+    position: right;
+    background-color: #F7EDE2;
+ }
+ .nav-link{
+     color: #84A59D;
+ }
