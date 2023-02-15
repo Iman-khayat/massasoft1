@@ -1,6 +1,6 @@
 import './App.css';
 import {Container} from "./components/index";
-import {Header,Footer,Hero,MostPopular} from "./sections/index";
+import {Header,Footer,Hero,MostPopular,ourcustomers} from "./sections/index";
 
 
 const App = () =>{
@@ -10,6 +10,7 @@ const App = () =>{
 <Container>
 <Hero/>
 <MostPopular/>
+<ourcustomers/>
 </Container>
 <Footer/>
 </>

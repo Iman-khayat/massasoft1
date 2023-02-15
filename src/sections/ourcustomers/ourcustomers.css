@@ -16,8 +16,12 @@
     padding: 10px;
 
 }
-
-.ourpartner-items{
+.ourcustomertitle{
+    color: #F28482;
+    font-size: 36px;
+    font-weight: 600px;
+}
+.ourcustomers-items{
     display: inline-block;
     display: flex;
     flex-direction: row;
@@ -28,18 +32,18 @@
     padding: 10px;
     margin: 10px;
 }
-.partner-img{
+.ourcustomers-img{
     max-width: 30%;
     border-image: 100%;
     border-width: 5px;
     margin: 10px;
     
 }
-.patrner-content{
+.ourcustomers-content{
     display: flex;
     justify-content: space-between;
 }
-.partner-content-titl{
+.ourcustomers-content-titl{
     font-size: medium;
     color: #84A59D;
 }

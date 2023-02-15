@@ -1,25 +1,13 @@
  
 .hero-main{
-    background-image: url('../../components/assets/img/2.png') ;
-    background-repeat: repeat;
-    background-position: cover;
-    border-radius: 25px;
-    padding: 50px 50px 50px 50px;
+    background-image: url('../../components/assets/img/laptop.jpg') ;
+    background-attachment: fixed;
+    border-radius: 15px;
+    padding: 10px;
+    height: 100%;
+    width: 100%;
 }
-.hero-text{
-    max-width: 500px;
+.background{
+    width: 100%;
+    height: 100%;
 }
-.hero-title{
-    padding: 40px 40px 40px 40px;
-    font-size: 60px;
-    text-transform: uppercase;
-    margin-bottom: 25px;
-    font-weight: 900;
-}
-.hero-title em {
-   font-style: normal;
- }
-.main-button{
-   font-style: normal;
- }
- 
