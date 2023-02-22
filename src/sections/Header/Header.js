@@ -1,8 +1,6 @@
-import React from 'react'
 import "./Header.css"
 import logo from '../../components/assets/img/MASSASOFT.png'
-import Hero from '../Hero/Hero'
- 
+  
  
 const Header = () => {
   return (
@@ -14,9 +12,6 @@ const Header = () => {
   <a href="#contact">Contact</a>
   <a href="#about">About</a>
     </div>
-
-  
-
     
   </nav>
 
